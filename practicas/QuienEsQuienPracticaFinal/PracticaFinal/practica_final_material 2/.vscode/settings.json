@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "hash_map": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "__bit_reference": "cpp",
+        "__tree": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "ios": "cpp",
+        "bitset": "cpp",
+        "ostream": "cpp"
+    }
+}

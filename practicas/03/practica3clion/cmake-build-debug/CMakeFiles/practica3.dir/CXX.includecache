@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/cola.h
+cstdlib
+-
+iostream
+-
+cassert
+-
+
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/main.cpp
+iostream
+-
+pila_max.h
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/pila_max.h
+
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/pila_max.h
+iostream
+-
+cassert
+-
+cola.h
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/cola.h
+cola.h
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/cola.h
+

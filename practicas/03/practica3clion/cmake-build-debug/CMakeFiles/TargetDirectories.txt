@@ -1,0 +1,3 @@
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/anthonius/Documents/informatica/segundo/ED/practicas/03/practica3clion/cmake-build-debug/CMakeFiles/practica3.dir

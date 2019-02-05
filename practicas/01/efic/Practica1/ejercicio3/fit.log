@@ -1,0 +1,43 @@
+
+
+*******************************************************************************
+Tue Oct  3 19:09:04 2017
+
+
+FIT:    data read from 'tiempos_descomposicion.dat'
+        format = z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=log(x)
+BREAK: Need via and either parameter list or file
+
+*******************************************************************************
+Tue Oct  3 19:09:25 2017
+
+
+FIT:    data read from 'tiempos_descomposicion.dat'
+        format = z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*log(x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a            
+   0 1.1158367636e+05   0.00e+00  1.06e+01    1.000000e+00
+   4 5.3832904642e-08   0.00e+00  1.06e-03    2.450966e-07
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 5.38329e-08
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7.34076e-06
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.38868e-11
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.45097e-07      +/- 2.198e-08    (8.966%)
